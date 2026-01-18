@@ -143,17 +143,11 @@ Software Engineer with a strong foundation in Data Structures & Algorithms (**80
   - Validated that SSR improved key web vitals (LCP, TTFB), boosting load performance by up to **40%** over CSR
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <br>
-        <a href="https://github.com/the-saadkhan?tab=repositories">
-          <img width="70%" src="https://img.shields.io/badge/%E2%9C%A8_EXPLORE_ALL_REPOSITORIES_%E2%9C%A8-2CA5E0?style=for-the-badge&logo=github&logoColor=white&color=gradient" alt="View All Repositories" />
-        </a>
-        <br><br>
-      </td>
-    </tr>
-  </table>
+  <br>
+  <a href="https://github.com/the-saadkhan?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀_EXPLORE_ALL_MY_REPOSITORIES_🚀-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+  </a>
+  <br><br>
 </div>
 
 <div align="center">
@@ -183,11 +177,9 @@ Software Engineer with a strong foundation in Data Structures & Algorithms (**80
 </p>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-saadkhan/the-saadkhan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-saadkhan/the-saadkhan/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/the-saadkhan/the-saadkhan/output/github-contribution-grid-snake.svg">
-  </picture>
+  <br>
+  <img src="https://raw.githubusercontent.com/the-saadkhan/the-saadkhan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <br>
 </div>
 
 <div align="center">

@@ -128,9 +128,9 @@ Software Engineer with a strong foundation in Data Structures & Algorithms (**80
 
 ## 🏆 Achievements & Recognition
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=the-saadkhan&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 ### 🎯 Technical Achievements
 - 💻 **800+ DSA Problems Solved** across LeetCode, GeeksforGeeks, and other platforms

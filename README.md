@@ -2,7 +2,7 @@
   
 # Saad Khan
 
-### Software Engineer | Full Stack Developer | AI/SaaS Specialist
+### Software Engineer | Full Stack Developer | AI/SaaS Specialist | THESAADKHAN
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;800%2B+DSA+Problems+Solved;Full+Stack+AI%2FSaaS+Applications)](https://git.io/typing-svg)
 

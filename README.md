@@ -178,7 +178,9 @@ Software Engineer with a strong foundation in Data Structures & Algorithms (**80
 
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/the-saadkhan/the-saadkhan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/The-SaadKhan/The-SaadKhan/output/github-snake-dark.svg" />
+</p>
   <br>
 </div>
 

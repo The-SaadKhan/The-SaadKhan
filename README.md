@@ -17,7 +17,7 @@ Software Engineer with a strong foundation in Data Structures & Algorithms (**80
 * 🔭 **Current Focus:** Building AI-powered SaaS applications with Next.js, leveraging cutting-edge LLMs like Gemini 2.0
 * 🌱 **Expertise:** Full-stack development, System Design, Data Structures & Algorithms, Cloud Architecture
 * 💼 **Recent Role:** Lead Developer Intern at Aurameter (Sep 2025 – Nov 2025)
-* 🎓 **Education:** B.Tech in Computer Science, Bennett University (CGPA: 8.4/10.0)
+* 🎓 **Education:** B.Tech in Computer Science, Bennett University (CGPA: 8.54/10.0)
 * 🤝 **Open to:** Collaborations on innovative AI/SaaS projects and open-source contributions
 
 ## 📈 My Contributions & Activity

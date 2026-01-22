@@ -186,5 +186,5 @@ Software Engineer with a strong foundation in Data Structures & Algorithms (**80
 
 <div align="center">
   <h3>Thanks for visiting! Feel free to star any repositories that catch your eye. ✨</h3>
-  <p>Profile last updated: <b>January 2026</b> by @the-saadkhan</p>
+  <p>Profile last updated: <b>January 2026</b> by @The-SaadKhan</p>
 </div>
